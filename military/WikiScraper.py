@@ -6,9 +6,9 @@ Created on Sat Oct  5 10:33:15 2019
 @author: gunjanrawal
 """
 
-import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import requests
 
 df = pd.DataFrame()
 wikiPage = 'https://en.wikipedia.org/?curid=23797951'
