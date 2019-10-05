@@ -5,7 +5,6 @@ Created on Sat Oct  5 10:33:15 2019
 
 @author: gunjanrawal
 """
-
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
